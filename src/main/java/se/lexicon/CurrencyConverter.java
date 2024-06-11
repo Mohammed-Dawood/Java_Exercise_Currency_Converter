@@ -1,5 +1,6 @@
 package se.lexicon;
 
+
 public class CurrencyConverter {
 
     // Exchange rates
